@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: shamylkashif@gmail.com
-- 😄 My website: [https://thetechbrothers.net](https://shamylkashif.wixsite.com/shamyl-kashif-1)
+- 😄 My website: [https://shamylkashif.wixsite.com/shamyl-kashif-1]
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
